@@ -1,4 +1,4 @@
-# IDD-FA19_PreLab2
+# Bar Kadosh's Pre-Lab 2
 
 Pre-Lab Ideas
 
